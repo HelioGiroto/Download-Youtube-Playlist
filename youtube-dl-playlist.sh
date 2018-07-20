@@ -53,7 +53,7 @@ function instalar {
 		echo "*** O programa YOUTUBE-DL não está instalado no seu computador... ***"	
 		echo "Pressione alguma tecla para instalá-lo ou CTLR+C para sair."
 		read
-		sudo apt-get install youtube-dl
+		sudo apt-get install -y youtube-dl html-xml-utils
 	fi
 }
 
