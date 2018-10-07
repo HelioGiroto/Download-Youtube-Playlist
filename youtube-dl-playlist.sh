@@ -34,8 +34,8 @@ function executar {
 		read opcao
 		echo
 			case $opcao in
-				1) youtube-dl $videos; exit;;
-				2) youtube-dl -f 140 $videos; exit;;
+				1) youtube-dl -i $videos; exit;;
+				2) youtube-dl -f 140 -i $videos; exit;;
 				3) exit;;
 				*) echo "Opção Inválida. Digite um número válido...";;
 			esac
