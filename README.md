@@ -11,6 +11,8 @@ Em seguida, execute-o no Terminal digitando:
 
 Disfrute e compartilhe...
 
+Informações: https://askubuntu.com/questions/564567/how-to-download-playlist-from-youtube-dl
+
 H.
 
 <a href="https://github.com/HelioGiroto/Download-Youtube-Playlist/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="Licença"></a> 
